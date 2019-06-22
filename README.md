@@ -13,6 +13,8 @@ Ultilizar ferramentas gratuitas, para ter o menor custo possivel
 
 ### Site onde vai ficar o portifolio e futuros projetos
 
-http://pandoradata.ml/
+<http://pandoradata.ml/>
 
+#### linkeddin
 
+<https://www.linkedin.com/in/leonidas-gomes-baa70330/>
