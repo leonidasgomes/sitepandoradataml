@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-Nesse projeto que aplicar meus conhecimentos de programação,  projetos e analise de dados;
+Neste projeto quero aplicar meus conhecimentos de programação,  projetos e analise de dados;
 O produto final sera um  portifolio dos meus skils.
 
 ### Custo
