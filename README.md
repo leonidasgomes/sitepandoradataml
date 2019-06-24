@@ -11,7 +11,7 @@ O produto final sera um  portifolio dos meus skils.
 
 Ultilizar ferramentas gratuitas, para ter o menor custo possivel
 
-### Site onde vai ficar o portifolio e futuros projetos
+### Site onde vai ficar o portifolio e futuros projetos e experiências. 
 
 <http://pandoradata.ml/>
 
